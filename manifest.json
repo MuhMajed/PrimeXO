@@ -1,0 +1,17 @@
+{
+  "name": "Prime XO",
+  "short_name": "PrimeXO",
+  "description": "A strategic and engaging twist on the classic tic-tac-toe game, played on a 3x3 grid of smaller 3x3 boards.",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f4f6",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

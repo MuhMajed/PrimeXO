@@ -1,0 +1,5 @@
+{
+  "name": "Prime XO V.2",
+  "description": "A strategic and engaging twist on the classic tic-tac-toe game, played on a 3x3 grid of smaller 3x3 boards. Features player vs. player and player vs. AI modes, with multiple difficulty levels and theme support.",
+  "requestFramePermissions": []
+}
